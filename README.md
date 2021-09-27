@@ -7,7 +7,7 @@
 
 ### env
 
-[![](https://img.shields.io/static/v1?label=os&message=archlinux&color=08c&style=for-the-badge)](https://www.archlinux.org/)
+[![](https://img.shields.io/static/v1?label=os%231&message=archlinux&color=08c&style=for-the-badge)](https://www.archlinux.org/)
 [![](https://img.shields.io/static/v1?label=os%232&message=windows10&color=00A4EF&style=for-the-badge)](https://www.microsoft.com/windows/)
 
 [![](https://img.shields.io/static/v1?label=ide&message=jet%20brains&color=C89332&style=for-the-badge)](https://www.jetbrains.com/products.html#type=ide)
