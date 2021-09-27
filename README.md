@@ -22,7 +22,6 @@
 
 ### others
 
-[![](https://img.shields.io/static/v1?label=twitter&message=@771_feelings&color=005E15&style=for-the-badge)](https://twitter.com/771_feelings)
 [![](https://img.shields.io/static/v1?label=github&message=this&color=005E15&style=for-the-badge)](https://github.com/Nanai10a)
 
 ---
