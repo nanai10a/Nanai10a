@@ -10,9 +10,9 @@
 [![](https://img.shields.io/static/v1?label=os%231&message=archlinux&color=08c&style=for-the-badge)](https://www.archlinux.org/)
 [![](https://img.shields.io/static/v1?label=os%232&message=windows10&color=00A4EF&style=for-the-badge)](https://www.microsoft.com/windows/)
 
+[![](https://img.shields.io/static/v1?label=editor&message=nvim&color=DE6A1C&style=for-the-badge)](https://www.vim.org/)
+[![](https://img.shields.io/static/v1?label=->%20with&message=neovide&color=DE6A1C&style=for-the-badge)](https://github.com/neovide/neovide)
 [![](https://img.shields.io/static/v1?label=ide&message=jet%20brains&color=C89332&style=for-the-badge)](https://www.jetbrains.com/products.html#type=ide)
-[![](https://img.shields.io/static/v1?label=editor&message=vs%20code&color=C89332&style=for-the-badge)](https://code.visualstudio.com/)
-[![](https://img.shields.io/static/v1?label=operation%20like&message=vim&color=DE6A1C&style=for-the-badge)](https://www.vim.org/)
 
 ### fav langs
 
