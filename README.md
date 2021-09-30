@@ -16,9 +16,10 @@
 
 ### fav langs
 
-[![](https://img.shields.io/static/v1?label=java&message=my%20parents&color=7BAA17&style=for-the-badge)](https://go.java/)
-[![](https://img.shields.io/static/v1?label=kotlin&message=i%20love&color=7BAA17&style=for-the-badge)](https://kotlinlang.org/)
 [![](https://img.shields.io/static/v1?label=rust&message=wonderful!&color=DE6A1C&style=for-the-badge)](https://www.rust-lang.org/)
+[![](https://img.shields.io/static/v1?label=kotlin&message=i%20love&color=7BAA17&style=for-the-badge)](https://kotlinlang.org/)
+[![](https://img.shields.io/static/v1?label=java&message=my%20parents&color=7BAA17&style=for-the-badge)](https://go.java/)
+
 
 ### others
 
