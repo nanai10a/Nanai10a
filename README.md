@@ -24,6 +24,7 @@
 ### others
 
 [![](https://img.shields.io/static/v1?label=github&message=this&color=005E15&style=for-the-badge)](https://github.com/Nanai10a)
+[![](https://img.shields.io/static/v1?label=github+%28archived%29&message=graveyard&color=005E15&style=for-the-badge)](https://github.com/Nanai10a-Archives)
 
 ---
 
